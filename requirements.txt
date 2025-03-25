@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+scipy
+requests
+python-dotenv
+PyMuPDF  # for extracting text from resume PDF
+pygame
