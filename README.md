@@ -2,7 +2,7 @@
 
 A sophisticated voice-enabled AI assistant that can interact through both speech and text. Built with Streamlit and Hugging Face's AI models.
 
-![MyVoiceBot Demo](https://myvoicebot.streamlit.app/)
+[MyVoiceBot Demo](https://myvoicebot.streamlit.app/)
 
 ## Features
 
